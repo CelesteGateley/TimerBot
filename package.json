@@ -1,0 +1,16 @@
+{
+  "name": "timedexecution",
+  "version": "1.0.0",
+  "description": "Has a countdown timer that updates every minute",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "CelesteMagisteel",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "seconds-converter": "^1.3.0"
+  }
+}
